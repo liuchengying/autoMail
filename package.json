@@ -1,0 +1,16 @@
+{
+  "name": "auto-mail",
+  "version": "1.0.0",
+  "description": "Automatically send an email to the person you want",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "auto",
+    "mail",
+    "e-mail"
+  ],
+  "author": "lcy_sanil",
+  "license": "ISC"
+}
