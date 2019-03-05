@@ -13,5 +13,8 @@ module.exports = {
         from: '你老头<liuchengying_yx@126.com>',
         to: 'yx_snail@126.com',
         subject: '每天小提示',
-    }
+    },
+    apiKey: 'HE1902282229251343',
+    beijing: 'CN101010100'
+    
 }
